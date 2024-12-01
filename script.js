@@ -31,7 +31,7 @@ stage1.addEventListener("click", function(){
   document.getElementById("subheader").textContent =
  "Chrysalis Stage";
   document.getElementById("description").textContent =
-  "The fully grown larva then looks for a pupation site and attaches itself to a horizontal surface using a silk pad, upside down in the shape of a letter J. In this position the larva sheds its skin, leaving itself encased in its green exoskeleton. During this pupal stage, the adult butterfly forms inside. At first the chrysalis is opaque green, and becomes transparent after about 2 weeks before the butterfly is ready to emerge."
+  "The fully grown larva then looks for a pupation site and attaches itself to a horizontal surface using a silk pad. eventually it hangs upside down in the shape of a letter J. In this position the larva sheds its skin, leaving itself encased in its green exoskeleton. During this pupal stage, the adult butterfly forms inside. At first the chrysalis is opaque green, and becomes transparent after about 2 weeks before the butterfly is ready to emerge."
  })
 
  stage4.addEventListener("click", function(){
